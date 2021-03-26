@@ -1,0 +1,1509 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Cubierto Ensalada Madera",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "600",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "2",
+            "name": "Cubierto Ensalada Wolfen (El Par)",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "350",
+            "replacement cost": "3500"
+        },
+        {
+            "id": "3",
+            "name": "Cuchara Caf\u00c3\u00a9 Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "690"
+        },
+        {
+            "id": "4",
+            "name": "Cuchara Postre Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "5",
+            "name": "Cuchara Sopa Premium",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "70",
+            "replacement cost": "800"
+        },
+        {
+            "id": "6",
+            "name": "Cuchara Sopa Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1100"
+        },
+        {
+            "id": "7",
+            "name": "Cuchara Te Premium",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "70",
+            "replacement cost": "600"
+        },
+        {
+            "id": "8",
+            "name": "Cuchara Te Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "790"
+        },
+        {
+            "id": "9",
+            "name": "Cucharon Grande",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "500",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "10",
+            "name": "Cuchillo Carne (Serrucho)",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "11",
+            "name": "Cuchillo Entrada Premium",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "70",
+            "replacement cost": "800"
+        },
+        {
+            "id": "12",
+            "name": "Cuchillo Entrada Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "13",
+            "name": "Cuchillo Mantequilla Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "14",
+            "name": "Cuchillo Pescado Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "15",
+            "name": "Cuchillo Postre Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "16",
+            "name": "Cuchillo Principal Premium",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "70",
+            "replacement cost": "800"
+        },
+        {
+            "id": "17",
+            "name": "Cuchillo Principal Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1100"
+        },
+        {
+            "id": "18",
+            "name": "Tenedor Entrada Premium",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "70",
+            "replacement cost": "700"
+        },
+        {
+            "id": "19",
+            "name": "Tenedor Entrada Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "900"
+        },
+        {
+            "id": "20",
+            "name": "Tenedor Pescado Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "21",
+            "name": "Tenedor Postre Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "900"
+        },
+        {
+            "id": "22",
+            "name": "Tenedor Principal Premium",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "70",
+            "replacement cost": "800"
+        },
+        {
+            "id": "23",
+            "name": "Tenedor Principal Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "24",
+            "name": "Tenedor Torta Wolfen",
+            "category": "Cubiertos - Cuchilleria",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "25",
+            "name": "Cucharon Grande",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "500",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "26",
+            "name": "Cucharon Sopero Grande",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "1000",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "27",
+            "name": "Cucharon Sopero Chico",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "500",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "28",
+            "name": "Espatulas Grandes",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "600",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "29",
+            "name": "Espatulas Medianas Metalicas",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "500",
+            "replacement cost": "2500"
+        },
+        {
+            "id": "30",
+            "name": "Cuchara Revolvedora",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "600",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "31",
+            "name": "Cucharon Salsero Chico",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "150",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "32",
+            "name": "Espatula Torta",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "650",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "33",
+            "name": "Pincho Asado",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "800",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "34",
+            "name": "Cuchillo Asado Mango Madera",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "800",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "35",
+            "name": "Fuente Ensalada Individual Ranurada",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "250",
+            "replacement cost": "1500"
+        },
+        {
+            "id": "36",
+            "name": "Pala Carbonera",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "800",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "37",
+            "name": "Tenaza Grande Asado",
+            "category": "Cubiertos De Cocina - Herramientas De Cocina",
+            "price": "800",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "38",
+            "name": "Asadera",
+            "category": "Menaje - Cocina",
+            "price": "3000",
+            "replacement cost": "25000"
+        },
+        {
+            "id": "39",
+            "name": "Batidor Manual De Cocina",
+            "category": "Menaje - Cocina",
+            "price": "1000",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "40",
+            "name": "Colador Yegua",
+            "category": "Menaje - Cocina",
+            "price": "2000",
+            "replacement cost": "13000"
+        },
+        {
+            "id": "41",
+            "name": "Fondo 30L",
+            "category": "Menaje - Cocina",
+            "price": "3000",
+            "replacement cost": "40000"
+        },
+        {
+            "id": "42",
+            "name": "Fondo 80L",
+            "category": "Menaje - Cocina",
+            "price": "6000",
+            "replacement cost": "60000"
+        },
+        {
+            "id": "43",
+            "name": "Olla Arrocera 10L",
+            "category": "Menaje - Cocina",
+            "price": "3000",
+            "replacement cost": "25000"
+        },
+        {
+            "id": "44",
+            "name": "Olla Arrocera 30L",
+            "category": "Menaje - Cocina",
+            "price": "3000",
+            "replacement cost": "40000"
+        },
+        {
+            "id": "45",
+            "name": "Parrilla Medio Tambor",
+            "category": "Menaje - Cocina",
+            "price": "10000",
+            "replacement cost": "40000"
+        },
+        {
+            "id": "46",
+            "name": "Sarten Mediano 40 Cm",
+            "category": "Menaje - Cocina",
+            "price": "2000",
+            "replacement cost": "20000"
+        },
+        {
+            "id": "47",
+            "name": "Sarten Yegua",
+            "category": "Menaje - Cocina",
+            "price": "3000",
+            "replacement cost": "25000"
+        },
+        {
+            "id": "48",
+            "name": "Copa Agua Normandi",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "100",
+            "replacement cost": "2500"
+        },
+        {
+            "id": "49",
+            "name": "Copa Excalibur Flauta",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "90",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "50",
+            "name": "Copa Excalibur Vino Blanco",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "90",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "51",
+            "name": "Copa Excalibur Vino Tinto",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "90",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "52",
+            "name": "Copa Flauta Normandi",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "90",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "53",
+            "name": "Copa Floral",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "100",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "54",
+            "name": "Copa Luminarc Degustacion",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "150",
+            "replacement cost": "2500"
+        },
+        {
+            "id": "55",
+            "name": "Copa Luminarc Tinto",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "100",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "56",
+            "name": "Copa Luminarc Vino Agua",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "150",
+            "replacement cost": "2500"
+        },
+        {
+            "id": "57",
+            "name": "Copa Martini",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "150",
+            "replacement cost": "2500"
+        },
+        {
+            "id": "58",
+            "name": "Copa Postre Ilhabela",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "100",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "59",
+            "name": "Copa Postre Lucas",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "100",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "60",
+            "name": "Copa Postre Multiuso",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "61",
+            "name": "Copa Postre Paulista",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "100",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "62",
+            "name": "Copa Postre Peldar",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "63",
+            "name": "Copa Vino Blanco Normandi",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "90",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "64",
+            "name": "Copa Vino Tinto Normandi",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "90",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "65",
+            "name": "Copa Ypsilon",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "200",
+            "replacement cost": "2500"
+        },
+        {
+            "id": "66",
+            "name": "Golpeadito",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "67",
+            "name": "Vaso Corto",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "68",
+            "name": "Vaso Largo",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "69",
+            "name": "Vaso Shot Cilindro",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "70",
+            "name": "Vaso Shot Imperial",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "71",
+            "name": "Vaso Shot Tulipa",
+            "category": "Cristaler\u00c3\u00ada - Coper\u00c3\u00ada",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "72",
+            "name": "Plato Base Cuadrado",
+            "category": "Platos",
+            "price": "120",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "73",
+            "name": "Plato Base Redondo Banquet",
+            "category": "Platos",
+            "price": "150",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "74",
+            "name": "Plato Cuadruple",
+            "category": "Platos",
+            "price": "120",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "75",
+            "name": "Plato Entrada Cuadrado",
+            "category": "Platos",
+            "price": "90",
+            "replacement cost": "1500"
+        },
+        {
+            "id": "76",
+            "name": "Plato Entrada Redondo Banquet",
+            "category": "Platos",
+            "price": "90",
+            "replacement cost": "1200"
+        },
+        {
+            "id": "77",
+            "name": "Plato Principal Cuadrado",
+            "category": "Platos",
+            "price": "100",
+            "replacement cost": "1800"
+        },
+        {
+            "id": "78",
+            "name": "Plato Principal Redondo Banquet",
+            "category": "Platos",
+            "price": "100",
+            "replacement cost": "2300"
+        },
+        {
+            "id": "79",
+            "name": "Plato Torta Cuadrado",
+            "category": "Platos",
+            "price": "70",
+            "replacement cost": "700"
+        },
+        {
+            "id": "80",
+            "name": "Plato Torta/Pan Redondo Banquet",
+            "category": "Platos",
+            "price": "70",
+            "replacement cost": "900"
+        },
+        {
+            "id": "81",
+            "name": "Balde Cervecero",
+            "category": "Cocktail - Barra",
+            "price": "1500",
+            "replacement cost": "8000"
+        },
+        {
+            "id": "82",
+            "name": "Bandeja Antideslizante",
+            "category": "Cocktail - Barra",
+            "price": "650",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "83",
+            "name": "Bandeja Antideslizante Americana",
+            "category": "Cocktail - Barra",
+            "price": "1200",
+            "replacement cost": "8000"
+        },
+        {
+            "id": "84",
+            "name": "Cenicero De Pie",
+            "category": "Cocktail - Barra",
+            "price": "3000",
+            "replacement cost": "15000"
+        },
+        {
+            "id": "85",
+            "name": "Coctelera",
+            "category": "Cocktail - Barra",
+            "price": "1000",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "86",
+            "name": "Dispensador De Liquido Con Base",
+            "category": "Cocktail - Barra",
+            "price": "1500",
+            "replacement cost": "7000"
+        },
+        {
+            "id": "87",
+            "name": "Hielera Acrilico Grande",
+            "category": "Cocktail - Barra",
+            "price": "1000",
+            "replacement cost": "8000"
+        },
+        {
+            "id": "88",
+            "name": "Hielera Chica",
+            "category": "Cocktail - Barra",
+            "price": "350",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "89",
+            "name": "Hielera Grande",
+            "category": "Cocktail - Barra",
+            "price": "500",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "90",
+            "name": "Molinillo Picahielo",
+            "category": "Cocktail - Barra",
+            "price": "2000",
+            "replacement cost": "10000"
+        },
+        {
+            "id": "91",
+            "name": "Cucharita De Ceviche",
+            "category": "Fuentes Y Pocillos",
+            "price": "70",
+            "replacement cost": "400"
+        },
+        {
+            "id": "92",
+            "name": "Fuente Bowl Loza",
+            "category": "Fuentes Y Pocillos",
+            "price": "850",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "93",
+            "name": "Fuente Cuadrado Honda Loza",
+            "category": "Fuentes Y Pocillos",
+            "price": "850",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "94",
+            "name": "Fuente Ensalada Individual Ranurada",
+            "category": "Fuentes Y Pocillos",
+            "price": "250",
+            "replacement cost": "1500"
+        },
+        {
+            "id": "95",
+            "name": "Fuente Lasagna",
+            "category": "Fuentes Y Pocillos",
+            "price": "350",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "96",
+            "name": "Fuente Loza Redonda Honda",
+            "category": "Fuentes Y Pocillos",
+            "price": "1000",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "97",
+            "name": "Fuente Ovalada Chica Loza",
+            "category": "Fuentes Y Pocillos",
+            "price": "350",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "98",
+            "name": "Fuente Ovalada Grande Loza",
+            "category": "Fuentes Y Pocillos",
+            "price": "800",
+            "replacement cost": "4500"
+        },
+        {
+            "id": "99",
+            "name": "Fuente Ovalada Mediana Loza",
+            "category": "Fuentes Y Pocillos",
+            "price": "550",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "100",
+            "name": "Fuente Pescado Loza",
+            "category": "Fuentes Y Pocillos",
+            "price": "600",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "101",
+            "name": "Fuente Rect Con Curvas Grande Loza",
+            "category": "Fuentes Y Pocillos",
+            "price": "1000",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "102",
+            "name": "Fuente Rectangular Chica Loza",
+            "category": "Fuentes Y Pocillos",
+            "price": "450",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "103",
+            "name": "Fuente Rectangular Honda",
+            "category": "Fuentes Y Pocillos",
+            "price": "1000",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "104",
+            "name": "Fuente Rectangular Plana Loza Grande",
+            "category": "Fuentes Y Pocillos",
+            "price": "1000",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "105",
+            "name": "Greda Cocktail",
+            "category": "Fuentes Y Pocillos",
+            "price": "80",
+            "replacement cost": "350"
+        },
+        {
+            "id": "106",
+            "name": "Plaque 35",
+            "category": "Fuentes Y Pocillos",
+            "price": "350",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "107",
+            "name": "Plaque 40",
+            "category": "Fuentes Y Pocillos",
+            "price": "400",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "108",
+            "name": "Plaque 50",
+            "category": "Fuentes Y Pocillos",
+            "price": "1000",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "109",
+            "name": "Pocillo Canoa",
+            "category": "Fuentes Y Pocillos",
+            "price": "80",
+            "replacement cost": "800"
+        },
+        {
+            "id": "110",
+            "name": "Pocillo Hoja",
+            "category": "Fuentes Y Pocillos",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "111",
+            "name": "Pocillo Loza Chico",
+            "category": "Fuentes Y Pocillos",
+            "price": "70",
+            "replacement cost": "600"
+        },
+        {
+            "id": "112",
+            "name": "Pocillo Loza Grande",
+            "category": "Fuentes Y Pocillos",
+            "price": "90",
+            "replacement cost": "800"
+        },
+        {
+            "id": "113",
+            "name": "Pocillo Loza Grande Multiuso",
+            "category": "Fuentes Y Pocillos",
+            "price": "200",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "114",
+            "name": "Pocillo Loza Mediano",
+            "category": "Fuentes Y Pocillos",
+            "price": "80",
+            "replacement cost": "700"
+        },
+        {
+            "id": "115",
+            "name": "Pocillo Suffle Ranurado",
+            "category": "Fuentes Y Pocillos",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "116",
+            "name": "Pocillo Suffle Ranurado Grande",
+            "category": "Fuentes Y Pocillos",
+            "price": "100",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "117",
+            "name": "Taza De Consom\u00c3\u00a9",
+            "category": "Tazas",
+            "price": "80",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "118",
+            "name": "Taza De T\u00c3\u00a9 C/Platillo Banquet",
+            "category": "Tazas",
+            "price": "160",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "119",
+            "name": "Taza De Caf\u00c3\u00a9 C/Platillo Banquet",
+            "category": "Tazas",
+            "price": "150",
+            "replacement cost": "800"
+        },
+        {
+            "id": "120",
+            "name": "Tabla Queso Ceramica",
+            "category": "Tablas",
+            "price": "1500",
+            "replacement cost": "7000"
+        },
+        {
+            "id": "121",
+            "name": "Tabla Queso Cuadrada",
+            "category": "Tablas",
+            "price": "500",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "122",
+            "name": "Tabla Queso Redonda Peltre",
+            "category": "Tablas",
+            "price": "1000",
+            "replacement cost": "6000"
+        },
+        {
+            "id": "123",
+            "name": "Tabla De Queso Especial",
+            "category": "Tablas",
+            "price": "600",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "124",
+            "name": "Cafetera De Acero",
+            "category": "Jarros",
+            "price": "1000",
+            "replacement cost": "6000"
+        },
+        {
+            "id": "125",
+            "name": "Jarros De Vidrio",
+            "category": "Jarros",
+            "price": "350",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "126",
+            "name": "Jarros Metalicos",
+            "category": "Jarros",
+            "price": "500",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "127",
+            "name": "Panera Mimbre Redonda",
+            "category": "Paneras",
+            "price": "250",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "128",
+            "name": "Panera Mimbre Ovalada",
+            "category": "Paneras",
+            "price": "250",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "129",
+            "name": "Panera Mimbre Rectangular",
+            "category": "Paneras",
+            "price": "250",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "130",
+            "name": "Panera Mimbre Chica",
+            "category": "Paneras",
+            "price": "200",
+            "replacement cost": "1500"
+        },
+        {
+            "id": "131",
+            "name": "Panera De Acero",
+            "category": "Paneras",
+            "price": "300",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "132",
+            "name": "Base Torta De Vidrio",
+            "category": "Articulos Para La Torta",
+            "price": "1000",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "133",
+            "name": "Base Torta Acero",
+            "category": "Articulos Para La Torta",
+            "price": "1000",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "134",
+            "name": "Espatula Torta",
+            "category": "Articulos Para La Torta",
+            "price": "650",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "135",
+            "name": "Alcuza Loza",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "850",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "136",
+            "name": "Azucareros Loza",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "200",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "137",
+            "name": "Bombonera Alta",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "1000",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "138",
+            "name": "Bombonera Baja",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "800",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "139",
+            "name": "Brasero Parrillero",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "1000",
+            "replacement cost": "7000"
+        },
+        {
+            "id": "140",
+            "name": "Cenicero De Mesa",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "200",
+            "replacement cost": "800"
+        },
+        {
+            "id": "141",
+            "name": "Pailita Loza",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "100",
+            "replacement cost": "800"
+        },
+        {
+            "id": "142",
+            "name": "Pescadito Loza",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "100",
+            "replacement cost": "800"
+        },
+        {
+            "id": "143",
+            "name": "Pimentero De Exhibici\u00c3\u00b3n",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "2000",
+            "replacement cost": "10000"
+        },
+        {
+            "id": "144",
+            "name": "Portanumero",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "500",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "145",
+            "name": "Richaud (2 Quemadores)",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "8000",
+            "replacement cost": "40000"
+        },
+        {
+            "id": "146",
+            "name": "Richaud Mini Ceramico",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "1500",
+            "replacement cost": "6000"
+        },
+        {
+            "id": "147",
+            "name": "Richaud Redondo (2 Quemadores)",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "8000",
+            "replacement cost": "40000"
+        },
+        {
+            "id": "148",
+            "name": "Saleros Loza",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "150",
+            "replacement cost": "600"
+        },
+        {
+            "id": "149",
+            "name": "Salsero Metalico",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "600",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "150",
+            "name": "Salseros Loza",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "600",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "151",
+            "name": "Servilletero",
+            "category": "Buffet - Accesorios De Mesa",
+            "price": "200",
+            "replacement cost": "1000"
+        },
+        {
+            "id": "152",
+            "name": "Camino De Mesa Color",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "1000",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "153",
+            "name": "Carpetas Color",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "1000",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "154",
+            "name": "Carpeta Redonda",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "1500",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "155",
+            "name": "Faldin",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "3500",
+            "replacement cost": "10000"
+        },
+        {
+            "id": "156",
+            "name": "Funda De Silla",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "450",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "157",
+            "name": "Lazos Color",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "150",
+            "replacement cost": "600"
+        },
+        {
+            "id": "158",
+            "name": "Mantel Cuadrado Jackard",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "3000",
+            "replacement cost": "15000"
+        },
+        {
+            "id": "159",
+            "name": "Mantel Mesa Acrilico",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "3000",
+            "replacement cost": "10000"
+        },
+        {
+            "id": "160",
+            "name": "Mantel Rectangular Doble",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "3000",
+            "replacement cost": "12000"
+        },
+        {
+            "id": "161",
+            "name": "Mantel Rectangular Simple",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "2000",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "162",
+            "name": "Mantel Redondo 2,80 (Chico)",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "2000",
+            "replacement cost": "10000"
+        },
+        {
+            "id": "163",
+            "name": "Mantel Redondo Color",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "3000",
+            "replacement cost": "12000"
+        },
+        {
+            "id": "164",
+            "name": "Mantel Redondo Jackard",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "3000",
+            "replacement cost": "12000"
+        },
+        {
+            "id": "165",
+            "name": "Mantel Redondo Normal",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "2000",
+            "replacement cost": "10000"
+        },
+        {
+            "id": "166",
+            "name": "Servilletas",
+            "category": "Manteler\u00c3\u00ada",
+            "price": "175",
+            "replacement cost": "500"
+        },
+        {
+            "id": "167",
+            "name": "Mesa Cuadrada",
+            "category": "Mobiliario",
+            "price": "2000",
+            "replacement cost": "43000"
+        },
+        {
+            "id": "168",
+            "name": "Mesa Redonda 10",
+            "category": "Mobiliario",
+            "price": "2000",
+            "replacement cost": "36000"
+        },
+        {
+            "id": "169",
+            "name": "Mesa Redonda 8",
+            "category": "Mobiliario",
+            "price": "2000",
+            "replacement cost": "36000"
+        },
+        {
+            "id": "170",
+            "name": "Mesa Redonda De Apoyo",
+            "category": "Mobiliario",
+            "price": "2000",
+            "replacement cost": "22000"
+        },
+        {
+            "id": "171",
+            "name": "Meson 1,50",
+            "category": "Mobiliario",
+            "price": "1500",
+            "replacement cost": "22000"
+        },
+        {
+            "id": "172",
+            "name": "Meson 2.40",
+            "category": "Mobiliario",
+            "price": "2000",
+            "replacement cost": "40000"
+        },
+        {
+            "id": "173",
+            "name": "Meson Acrilico (2,00)",
+            "category": "Mobiliario",
+            "price": "2500",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "174",
+            "name": "Meson Curvo",
+            "category": "Mobiliario",
+            "price": "2500",
+            "replacement cost": "50000"
+        },
+        {
+            "id": "175",
+            "name": "Pagoda Completa",
+            "category": "Mobiliario",
+            "price": "20000",
+            "replacement cost": "50000"
+        },
+        {
+            "id": "176",
+            "name": "Meson De 1,20",
+            "category": "Mobiliario",
+            "price": "1500",
+            "replacement cost": "22000"
+        },
+        {
+            "id": "177",
+            "name": "Perno C/Mariposa",
+            "category": "Mobiliario",
+            "price": "0",
+            "replacement cost": "200"
+        },
+        {
+            "id": "178",
+            "name": "Silla Banquet",
+            "category": "Mobiliario",
+            "price": "450",
+            "replacement cost": "10000"
+        },
+        {
+            "id": "179",
+            "name": "Silla Schiavari C/Cojin",
+            "category": "Mobiliario",
+            "price": "1500",
+            "replacement cost": "30000"
+        },
+        {
+            "id": "180",
+            "name": "Sillas Vestidas (Con Funda Y Lazo)",
+            "category": "Mobiliario",
+            "price": "900",
+            "replacement cost": ""
+        },
+        {
+            "id": "181",
+            "name": "Angel Loza (Porta Numero)",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "800",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "182",
+            "name": "Canastillo Encintado Grande",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "1000",
+            "replacement cost": "3000"
+        },
+        {
+            "id": "183",
+            "name": "Candelabro Mesa Novio",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "2000",
+            "replacement cost": "6000"
+        },
+        {
+            "id": "184",
+            "name": "Candelabro Mesa Rustico Negro",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "1500",
+            "replacement cost": "8000"
+        },
+        {
+            "id": "185",
+            "name": "Candelabro Pie 5 Velas Fierro",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "3500",
+            "replacement cost": "20000"
+        },
+        {
+            "id": "186",
+            "name": "Candelabro Pie Arreglo Floral",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "3500",
+            "replacement cost": "20000"
+        },
+        {
+            "id": "187",
+            "name": "Florero Cilindrico Bajo",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "500",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "188",
+            "name": "Florero Tulipa Chico",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "500",
+            "replacement cost": "2000"
+        },
+        {
+            "id": "189",
+            "name": "Florero Tulipa Grande",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "1500",
+            "replacement cost": "700"
+        },
+        {
+            "id": "190",
+            "name": "Florero Tulipa Mediano",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "800",
+            "replacement cost": "3500"
+        },
+        {
+            "id": "191",
+            "name": "Florero Vidrio 30 Cms Cilindro",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "1000",
+            "replacement cost": "4000"
+        },
+        {
+            "id": "192",
+            "name": "Floreros Vidrio 40 Cms Cilindro",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "1200",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "193",
+            "name": "Pizarrita",
+            "category": "Decoraci\u00c3\u00b3n",
+            "price": "1000",
+            "replacement cost": "5000"
+        },
+        {
+            "id": "194",
+            "name": "Ba\u00c3\u00b1o Maria 4 Compartim. S/Gas",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "55000",
+            "replacement cost": "250000"
+        },
+        {
+            "id": "195",
+            "name": "Ba\u00c3\u00b1o Maria 3 Compartim. S/Gas",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "35000",
+            "replacement cost": "200000"
+        },
+        {
+            "id": "196",
+            "name": "Churrasquera S/Gas",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "35000",
+            "replacement cost": "200000"
+        },
+        {
+            "id": "197",
+            "name": "Freidora S/Gas",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "30000",
+            "replacement cost": "150000"
+        },
+        {
+            "id": "198",
+            "name": "Fogon (2 Platos) Sin Gas",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "10000",
+            "replacement cost": "40000"
+        },
+        {
+            "id": "199",
+            "name": "Fogon Certificado (2 Platos) Sin Gas",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "12000",
+            "replacement cost": "80000"
+        },
+        {
+            "id": "200",
+            "name": "Paellera",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "10000",
+            "replacement cost": "72000"
+        },
+        {
+            "id": "201",
+            "name": "Hervidor 11L",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "8000",
+            "replacement cost": "45000"
+        },
+        {
+            "id": "202",
+            "name": "Hervidor 30L",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "12000",
+            "replacement cost": "60000"
+        },
+        {
+            "id": "203",
+            "name": "Horno (2 Bandejas) S/Gas",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "30000",
+            "replacement cost": "200000"
+        },
+        {
+            "id": "204",
+            "name": "Maquina Congeladora",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "21000",
+            "replacement cost": "200000"
+        },
+        {
+            "id": "205",
+            "name": "Marmita Consome",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "12000",
+            "replacement cost": "60000"
+        },
+        {
+            "id": "206",
+            "name": "Percolador",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "12000",
+            "replacement cost": "60000"
+        },
+        {
+            "id": "207",
+            "name": "Termo 2L Tipo Jarra",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "1500",
+            "replacement cost": "6000"
+        },
+        {
+            "id": "208",
+            "name": "Termo Sifon 3,5 Litros",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "3500",
+            "replacement cost": "10000"
+        },
+        {
+            "id": "209",
+            "name": "Vicicooler Vertical 6 Bandejas",
+            "category": "Equipamiento - Articulos Electricos\n(Todos Los Hervidores Y Maquinas Deben Devolverse Limpios)",
+            "price": "30000",
+            "replacement cost": "250000"
+        },
+        {
+            "id": "210",
+            "name": "Ventilador De Salon",
+            "category": "Calefacci\u00c3\u00b3n - Ventilaci\u00c3\u00b3n",
+            "price": "12000",
+            "replacement cost": "80000"
+        },
+        {
+            "id": "211",
+            "name": "Turbo Calefactor 560 Mts2 (Sin Gas)",
+            "category": "Calefacci\u00c3\u00b3n - Ventilaci\u00c3\u00b3n",
+            "price": "25000",
+            "replacement cost": "250000"
+        },
+        {
+            "id": "212",
+            "name": "Estufa De Patio",
+            "category": "Calefacci\u00c3\u00b3n - Ventilaci\u00c3\u00b3n",
+            "price": "25000",
+            "replacement cost": "150000"
+        },
+        {
+            "id": "213",
+            "name": "Silla Para Ni\u00c3\u00b1o",
+            "category": "Para Ni\u00c3\u00b1os",
+            "price": "600",
+            "replacement cost": "8000"
+        },
+        {
+            "id": "214",
+            "name": "Meson Para Ni\u00c3\u00b1os",
+            "category": "Para Ni\u00c3\u00b1os",
+            "price": "3000",
+            "replacement cost": "20000"
+        },
+        {
+            "id": "215",
+            "name": "Funda De Silla Para Ni\u00c3\u00b1o",
+            "category": "Para Ni\u00c3\u00b1os",
+            "price": "500",
+            "replacement cost": "3000"
+        }
+    ]
+}
